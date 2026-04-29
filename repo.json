@@ -6,7 +6,7 @@
   "Versions": [
     {
       "Version": "0.1.1",
-      "Url": "https://github.com/fsocko/plugin-calc/archive/v0.1.1.zip",
+      "Url": "https://github.com/user-attachments/files/27172046/plugin-calc-0.1.1.zip",
       "Require": {
         "micro": ">=2.0.15"
       }
