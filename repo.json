@@ -1,12 +1,12 @@
 [{
   "Name": "calc",
   "Description": "Plugin for basic calculations in Micro",
-  "Website": "https://github.com/fsocko/calc-plugin",
+  "Website": "https://github.com/fsocko/plugin-calc",
   "Tags": ["maths", "calculation"],
   "Versions": [
     {
       "Version": "0.1.1",
-      "Url": "https://github.com/fsocko/manipulator-plugin/archive/v0.1.1.zip",
+      "Url": "https://github.com/fsocko/plugin-calc/archive/v0.1.1.zip",
       "Require": {
         "micro": ">=2.0.15"
       }
