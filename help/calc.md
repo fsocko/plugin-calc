@@ -1,4 +1,4 @@
-# calc plugin
+# calc
 
 A lightweight inline calculator for Micro editor.
 

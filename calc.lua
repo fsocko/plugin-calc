@@ -170,4 +170,5 @@ end
 
 function init()
     config.MakeCommand("calc", calc, config.NoComplete)
+    config.AddRuntimeFile("calc", config.RTHelp, "help/calc.md")
 end
