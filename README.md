@@ -9,6 +9,11 @@ Didn't see anyone make this, so I did.
 
 A lightweight inline calculator for Micro editor.
 
+# demo
+
+![Demo](help/calc_tutorial.gif)
+
+
 ---
 
 ## Features
