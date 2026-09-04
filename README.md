@@ -5,11 +5,10 @@ Didn't see anyone make this, so I did.
 
 ---
 
-# calc plugin
+# Demo
 
-A lightweight inline calculator for Micro editor.
+![Demo](help/calc_tutorial.gif)
 
----
 
 ## Features
 
